@@ -1,0 +1,19 @@
+{
+  "name": "@pierreminiggio/extract-form-data",
+  "version": "1.0.0",
+  "description": "Extract Data From Form Element",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierreminiggio/extract-form-data.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierreminiggio/extract-form-data/issues"
+  },
+  "homepage": "https://github.com/pierreminiggio/extract-form-data#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
